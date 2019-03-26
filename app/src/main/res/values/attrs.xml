@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="advDrawerLayout">
+        <attr name="lrd_customBehavior" format="boolean" />
+        <attr name="lrd_viewScale" format="float" />
+        <attr name="lrd_viewScrimColor" format="color" />
+        <attr name="lrd_viewElevation" format="dimension" />
+        <attr name="lrd_drawerElevation" format="dimension" />
+    </declare-styleable>
+</resources>
